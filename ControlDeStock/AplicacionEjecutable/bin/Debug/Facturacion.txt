@@ -1,0 +1,3 @@
+|         ID |               Nombre |  Categoria |     Precio |      Stock |   Vendidos |
+|         90 |          Bolsa Arena |          1 |         60 |         45 |       1500 |
+

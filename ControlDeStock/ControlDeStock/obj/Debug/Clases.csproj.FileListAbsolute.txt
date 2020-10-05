@@ -1,0 +1,6 @@
+D:\Git ISTEA\Visual-Studio\ControlDeStock\ControlDeStock\bin\Debug\ControlDeStock.dll
+D:\Git ISTEA\Visual-Studio\ControlDeStock\ControlDeStock\bin\Debug\ControlDeStock.pdb
+D:\Git ISTEA\Visual-Studio\ControlDeStock\ControlDeStock\obj\Debug\Clases.csproj.CoreCompileInputs.cache
+D:\Git ISTEA\Visual-Studio\ControlDeStock\ControlDeStock\obj\Debug\ControlDeStock.dll
+D:\Git ISTEA\Visual-Studio\ControlDeStock\ControlDeStock\obj\Debug\ControlDeStock.pdb
+D:\Git ISTEA\Visual-Studio\ControlDeStock\ControlDeStock\obj\Debug\Clases.csprojAssemblyReference.cache

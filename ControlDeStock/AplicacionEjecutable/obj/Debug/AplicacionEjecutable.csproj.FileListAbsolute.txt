@@ -1,0 +1,10 @@
+D:\Git ISTEA\Visual-Studio\ControlDeStock\AplicacionEjecutable\bin\Debug\AplicacionEjecutable.exe.config
+D:\Git ISTEA\Visual-Studio\ControlDeStock\AplicacionEjecutable\bin\Debug\AplicacionEjecutable.exe
+D:\Git ISTEA\Visual-Studio\ControlDeStock\AplicacionEjecutable\bin\Debug\AplicacionEjecutable.pdb
+D:\Git ISTEA\Visual-Studio\ControlDeStock\AplicacionEjecutable\obj\Debug\AplicacionEjecutable.csproj.CoreCompileInputs.cache
+D:\Git ISTEA\Visual-Studio\ControlDeStock\AplicacionEjecutable\obj\Debug\AplicacionEjecutable.exe
+D:\Git ISTEA\Visual-Studio\ControlDeStock\AplicacionEjecutable\obj\Debug\AplicacionEjecutable.pdb
+D:\Git ISTEA\Visual-Studio\ControlDeStock\AplicacionEjecutable\obj\Debug\AplicacionEjecutable.csprojAssemblyReference.cache
+D:\Git ISTEA\Visual-Studio\ControlDeStock\AplicacionEjecutable\bin\Debug\ControlDeStock.dll
+D:\Git ISTEA\Visual-Studio\ControlDeStock\AplicacionEjecutable\bin\Debug\ControlDeStock.pdb
+D:\Git ISTEA\Visual-Studio\ControlDeStock\AplicacionEjecutable\obj\Debug\AplicacionEjecutable.csproj.CopyComplete
